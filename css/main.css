@@ -27,5 +27,18 @@ section{  display: flex}
 {
     padding: 6px 12px;
     line-height: 1.4; 
-  
+    border: none;
+    border-radius: 3px;
+}
+
+.btn-default
+{
+    color: white;
+    background-color:#faa541;
+}
+
+.btn-primary
+{
+    color: white;
+    background-color: #364147;
 }
