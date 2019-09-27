@@ -52,20 +52,19 @@ section{  display: flex}
     color: #8598a2;
     line-height: 1.4; 
 }
-.text-light
-{
+.text-light{
     font-size: 30px;
-    lighting-color: #a0a0a0;
+    color: #a0a0a0;
 }
 
 .text-secondary
 {
     font-size: 30px;
-    lighting-color: #faa541;
+    color: #faa541;
 } 
 
 .text-primary
 {
     font-size: 16px;
-    lighting-color: #364147;
+    color: #364147;
 }
