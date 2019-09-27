@@ -22,3 +22,10 @@ section{  display: flex}
 .align-center{align-items:center}
 .center{justify-content: center}
 .space-between{justify-content: space-between}
+
+.btn 
+{
+    padding: 6px 12px;
+    line-height: 1.4; 
+  
+}
