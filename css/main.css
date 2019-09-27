@@ -25,9 +25,10 @@ section{  display: flex}
 
 .btn 
 {
+    cursor: pointer;
     padding: 6px 12px;
     line-height: 1.4; 
-    border: none;
+    border: 0;
     border-radius: 3px;
 }
 
