@@ -100,3 +100,10 @@ section{  display: flex}
     padding: 6px 12px;
     border: 1px #a0a0a0
 }
+
+
+.search-button
+{
+    background: #a0a0a0;
+    color:#ffffff;
+}
