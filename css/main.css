@@ -107,3 +107,16 @@ section{  display: flex}
     background: #a0a0a0;
     color:#ffffff;
 }
+
+.nav-list
+{
+    padding-left: 0;
+    width: 575px;
+    margin-top: 10px;
+}
+
+.nav-list li a 
+{
+    upper
+
+}
